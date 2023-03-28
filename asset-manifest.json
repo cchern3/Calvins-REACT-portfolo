@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Calvins-REACT-portfolo/static/css/main.ed4258b7.chunk.css",
-    "main.js": "/Calvins-REACT-portfolo/static/js/main.bc739e1b.chunk.js",
-    "main.js.map": "/Calvins-REACT-portfolo/static/js/main.bc739e1b.chunk.js.map",
+    "main.js": "/Calvins-REACT-portfolo/static/js/main.6db82dbc.chunk.js",
+    "main.js.map": "/Calvins-REACT-portfolo/static/js/main.6db82dbc.chunk.js.map",
     "runtime-main.js": "/Calvins-REACT-portfolo/static/js/runtime-main.75c9f008.js",
     "runtime-main.js.map": "/Calvins-REACT-portfolo/static/js/runtime-main.75c9f008.js.map",
     "static/js/2.61d61c39.chunk.js": "/Calvins-REACT-portfolo/static/js/2.61d61c39.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.75c9f008.js",
     "static/js/2.61d61c39.chunk.js",
     "static/css/main.ed4258b7.chunk.css",
-    "static/js/main.bc739e1b.chunk.js"
+    "static/js/main.6db82dbc.chunk.js"
   ]
 }
