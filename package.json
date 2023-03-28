@@ -1,6 +1,4 @@
-{
-  "homepage": "/",
-  "name": "react-portfolio",
+{ "name": "react-portfolio",
   "homepage": "https://cchern3.github.io/Calvins-REACT-portfolo/",
   "version": "0.1.0",
   "private": true,
