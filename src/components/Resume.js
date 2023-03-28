@@ -19,7 +19,7 @@ function Resume() {
         </a>
       </div>
       <div className="column">
-        <p className="content is-medium">Skills</p>
+        <p className="content is-medium">Proficiences</p>
         <hr />
         <ul>
             <li>HTML, CSS, Javascript</li>
