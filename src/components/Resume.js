@@ -9,7 +9,7 @@ function Resume() {
 
         <a
           className="button is-dark"
-          href="/calvinchern.pdf"
+          href="/Calvins-REACT-portfolo/calvinchern.pdf"
           target="_blank" rel="noreferrer"
         >
           <span className="icon">
