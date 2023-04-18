@@ -44,6 +44,13 @@ const projects = [
     repo: "https://github.com/cchern3/Challenge6Weather",
     live: "https://cchern3.github.io/Challenge6Weather/",
   },
+  {
+    id: 6,
+    title: "ButtSniffer Social Media App",
+    image: "/Calvins-REACT-portfolo/img/buttsniffer.png",
+    repo: "https://github.com/ltrapaga/ButtSniffer-dog-socialmedia-app",
+    live: "https://buttsniffer-dog-social-media.herokuapp.com/",
+  },
 ];
 
 function Portfolio() {
